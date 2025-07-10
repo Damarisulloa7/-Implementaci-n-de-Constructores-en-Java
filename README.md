@@ -1,5 +1,6 @@
 # -Implementaci-n-de-Constructores-en-Java
 DAMARIS ANETTE ULLOA GUALLI
+
 Descripción del programa realizado: 
 - Este programa demuestra el uso de constructores en Java, incluyendo:
 - Constructor por defecto (sin parámetros)
@@ -12,13 +13,13 @@ Ejemplos de uso o ejecución del programa:
 
 1. Ejecución básica del programa
    
-# Compilar
+ Compilar
 javac src/Main.java -d bin
 
-# Ejecutar
+ Ejecutar
 java -cp bin Main
 
-# Salida esperada:
+ Salida esperada:
 Persona creada con constructor por defecto
 Persona creada con constructor de un parámetro
 Persona creada con constructor de dos parámetros
